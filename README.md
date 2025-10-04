@@ -1,2 +1,3 @@
 # Project-PT_HMC
-by anggi kyw:>
+
+[Klik di sini untuk lihat hasil deploy](https://anggi78.github.io/Project-PT_HMC/)
